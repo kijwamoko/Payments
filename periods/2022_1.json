@@ -1,0 +1,42 @@
+{
+    "year": 2022,
+    "month": 1,
+    "positions": [
+        {
+            "name": "Ubezpieczenie zycie",
+            "price": 511.02,
+            "desc": "Ubezpieczenie na zycie prudential od Ewki",
+            "paid": false
+        },
+        {
+            "name": "Czynsz+garaz",
+            "price": 436.48,
+            "desc": "Opata za czynsz + garaz",
+            "paid": false
+        },
+        {
+            "name": "Fundusz remontowy + garaz",
+            "price": 85.28,
+            "desc": "oplata za fundusz remontowy + garaz",
+            "paid": false
+        },
+        {
+            "name": "Prad",
+            "price": 0,
+            "desc": "Oplata za prad",
+            "paid": false
+        },
+        {
+            "name": "Internet",
+            "price": 89,
+            "desc": "Oplata za internet Moico",
+            "paid": false
+        },
+        {
+            "name": "Telefon",
+            "price": 0,
+            "desc": "Oplata za telefon Nju mobile",
+            "paid": false
+        }
+    ]
+}

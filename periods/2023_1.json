@@ -1,0 +1,66 @@
+{
+    "year": 2023,
+    "month": 1,
+    "positions": [
+        {
+            "name": "Ubezpieczenie zycie",
+            "price": 511.02,
+            "desc": "Ubezpieczenie na zycie prudential od Ewki",
+            "paid": false
+        },
+        {
+            "name": "Czynsz+garaz",
+            "price": 436.48,
+            "desc": "Opata za czynsz + garaz",
+            "paid": true
+        },
+        {
+            "name": "Fundusz remontowy + garaz",
+            "price": 85.28,
+            "desc": "oplata za fundusz remontowy + garaz",
+            "paid": true
+        },
+        {
+            "name": "Prad",
+            "price": 0,
+            "desc": "Oplata za prad",
+            "paid": false
+        },
+        {
+            "name": "Internet",
+            "price": 89,
+            "desc": "Oplata za internet Moico",
+            "paid": false
+        },
+        {
+            "name": "Telefon",
+            "price": 0,
+            "desc": "Oplata za telefon Nju mobile",
+            "paid": false
+        },
+        {
+            "name": "ZUS",
+            "price": 1684,
+            "desc": "Oplata na ZUS",
+            "paid": false
+        },
+        {
+            "name": "Ksiegowy",
+            "price": 110,
+            "desc": "Oplata za uslugi ksiegowe",
+            "paid": false
+        },
+        {
+            "name": "Podatek dochodowy",
+            "price": 0,
+            "desc": "Podatek dochodowy",
+            "paid": false
+        },
+        {
+            "name": "VAT",
+            "price": 0,
+            "desc": "VAT",
+            "paid": false
+        }
+    ]
+}
