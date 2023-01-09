@@ -13,7 +13,7 @@ class Period:
         self.year = year
         self.month = month
 
-    def add_position(self, name='', price=0, desc='', paid=False, positions=[]):
+    def add_position(self, name: str = '', price: int = 0, desc: str = '', paid: bool = False, positions=[]) -> None:
 
         if len(positions) > 0:
             self.positions.extend(positions)
